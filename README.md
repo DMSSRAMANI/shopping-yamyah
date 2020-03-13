@@ -1,0 +1,2 @@
+# shopping-yamyah
+all activities
